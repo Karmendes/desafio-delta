@@ -1,3 +1,5 @@
+#!/bin/sh
+
 # Colocando valores
 sqlite3 desafio_engenheiro.db "insert into cliente (nome) values ('Cliente A')"
 sqlite3 desafio_engenheiro.db "insert into cliente (nome) values ('Cliente B')"

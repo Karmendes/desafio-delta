@@ -1,8 +1,5 @@
 #!/bin/sh
 
-
-
-
 sqlite3 desafio_engenheiro.db "CREATE TABLE 'cliente' (
 	'cliente_id'	INTEGER NOT NULL,
 	'nome'	TEXT NOT NULL,
